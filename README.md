@@ -2,6 +2,6 @@
 
 PHP objet
 
-Wallah c trop simple
+Ceci est un message
 
-wallah
+Ceci est un autre message
